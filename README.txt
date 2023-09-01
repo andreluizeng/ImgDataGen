@@ -22,3 +22,9 @@ Frame Grabber TAB
 
 * Improved UI;
 * now clicking on the video will also perform the grab operation;
+
+
+Tutorial
+--------------
+
+https://www.youtube.com/watch?v=nsjW4iPxhNY
